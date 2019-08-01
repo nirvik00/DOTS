@@ -1,6 +1,6 @@
 # DOTS
 Design Optimization Tool Set<br/>
-----------------------------<br/>
+---------------------------------<br/><br/>
 Grasshopper plugin for architecture and urban design. <br/>
 Download & install: drag-drop <b>DotsProj.gha</b> into grasshopper
 File: <b>dots_components.pdf</b> provides documentation about each component: inputs, output and workflow<br/>
