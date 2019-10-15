@@ -7,6 +7,7 @@ File: <b><i>dots_overview.pdf</i></b> provides high-level explanantion about the
 Directory: <b><i>dots_workflow</i></b> provides <i>sample gh files, rhino3d files</i> and <i>sample*.csv files </i>which can be for reference.<br/>
 
 for a complete picture refer:<br/>
+
 https://dots-ai.herokuapp.com/
 
 https://plugs-web.herokuapp.com/
