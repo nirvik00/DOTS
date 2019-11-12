@@ -1,0 +1,43 @@
+<script src="/static/js/global.js"></script>
+<script src="/static/js/grid.js"></script>
+<script src="/static/js/buildingElements.js"></script>
+<script src="/static/js/userElements.js"></script>
+<script src="/static/js/userDraw.js"></script>
+<script src="/static/js/2Dmain.js"></script>
+<script src="/static/js/UItable.js"></script>
+
+
+<!-- 2D global variables -->
+
+<div id="div2D"></div> <!-- For the 2D view -->
+<div id="divElementTypeSelect"></div> <br> <!-- For the edit input buttons -->
+<div id="divObjProperties">some text</div> <!-- For the object proporty table  -->
+<div id="objCreateOrEdit"></div> <!-- For the object edit table - currently commented out  -->
+
+<div id="div3D"></div> <!-- For the 3D view -->
+<div id="divLevel3D"></div> <!-- For the Levels panel -->
+
+<!-- 3D global variables -->
+<script src="/static/js/3Dmain.js"></script>
+
+
+<div id="divSubmit">
+    <h3> Save Model</h3>
+    <form action="/add" method="post">
+        <textarea name="details" id="update" hidden></textarea>
+        Enter filename: 
+        <input type="text" value="filename" name="name" id="filename"   required/>
+        <textarea name="filename" id="update" hidden></textarea>
+        <button type="submit" class="button" onclick="transmitData()"> SUBMIT DATA </button>
+    </form>
+    
+    <select id="select" onchange="selectorChange()"> </select>
+</div>
+
+
+<script>
+    var MODELDATA = "{{{data}}}";
+    setup3D();
+    setInterval(draw3D, 100);
+</script>
+

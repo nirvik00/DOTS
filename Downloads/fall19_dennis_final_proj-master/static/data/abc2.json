@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Wall",
+        "coords": "2,1;12,1;",
+        "rotation": 0,
+        "level": 0,
+        "name": "BE_0"
+    },
+    {
+        "type": "Wall",
+        "coords": "12,1;12,6;",
+        "rotation": 0,
+        "level": 0,
+        "name": "BE_1"
+    },
+    {
+        "type": "Wall",
+        "coords": "12,6;2,6;",
+        "rotation": 0,
+        "level": 0,
+        "name": "BE_2"
+    },
+    {
+        "type": "Wall",
+        "coords": "2,6;2,1;",
+        "rotation": 0,
+        "level": 0,
+        "name": "BE_3"
+    },
+    {
+        "type": "Chair",
+        "coords": "6,3;",
+        "rotation": 0,
+        "level": 0,
+        "name": "BE_4"
+    },
+    {
+        "type": "Slab",
+        "coords": "2,1;12,1;12,6;2,6;2,1;",
+        "rotation": 0,
+        "level": 0,
+        "name": "BE_5"
+    },
+    {
+        "id": 1573513965391
+    }
+]
