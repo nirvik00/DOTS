@@ -1,0 +1,54 @@
+<script src="/static/js/global.js"></script>
+
+<h1>Retrieve Data</h1>
+SELECT OPTION TO DISPLAY
+<select id="select"> </select>
+<br>
+<div id="3D" style="margin-top:5%"></div>
+<script>
+    var jsonArr = [];
+    var data = "{{{data}}}";
+    var dataArr = data.split('|');
+    var filenames = [];
+    for (var i = 0; i < dataArr.length - 1; i++) {
+        var arr = dataArr[i].split('-');
+        var id = arr[0];
+        if (i > 0) id = arr[0].split(',')[1];
+        var filename = arr[1];
+        var type = arr[2];
+        var coords = arr[3];
+        json = {
+            id: id,
+            name: filename,
+            type: type,
+            coords: coords
+        };
+        str = JSON.stringify(json);
+        jsonArr.push(json);
+        var sum = 0;
+        for (var j = 0; j < filenames.length; j++) {
+            if (filenames[j] === filename) sum++;
+        }
+        if (sum === 0) filenames.push(filename);
+    }
+    var selObj = document.getElementById("select");
+    for (var i = 0; i < filenames.length; i++) {
+        selObj.options[i] = new Option(filenames[i], i);
+    }
+
+    var meshArr = [];
+    var div3D, camera3D, scene3D, controls, light, renderer;
+    var meshArr = [];
+    var CANVAS_WIDTH = 500, CANVAS_HEIGHT = 500;
+</script>
+
+<script src="/static/js/retrieve.js"></script>
+
+<script>
+    var m = new THREE.MeshPhongMaterial({ color: 0x1a2eff, opacity: 0.75, transparent: true, side: THREE.DoubleSide });
+    
+    var chair;
+    
+    setup3D();
+    setInterval(retdraw, 100);
+</script>

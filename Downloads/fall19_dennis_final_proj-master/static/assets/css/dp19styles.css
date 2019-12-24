@@ -1,0 +1,123 @@
+#header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 40px;
+    width: 100%;
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+#div2D {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    width: 600px;
+    height: 300px;
+    background-color: pink;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+
+#div3D {
+    position: absolute;
+    top: 50px;
+    left: 620px;
+    width: 600px;
+    height: 300px;
+    background-color: pink;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+#divElementTypeSelect {
+    position: absolute;
+    top: 360px;
+    left: 10px;
+    width: 600px;
+    height: 100px;
+
+
+}
+
+#divLevel3D {
+    position: absolute;
+    top: 360px;
+    left: 620px;
+    width: 600px;
+    height: 100px;
+
+
+}
+
+#divObjProperties {
+    position: absolute;
+    top: 500px;
+    left: 10px;
+    width: 300px;
+    height: 180px;
+
+
+}
+
+#divSubmit {
+    position: absolute;
+    top: 500px;
+    left: 620px;
+    width: 600px;
+    height: 100px;
+
+
+}
+
+
+#divObjProperties.table {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+
+}
+
+#divObjProperties.td {
+    border-style: solid;
+    border-color: darkslategrey;
+    border-width: 1px;
+    width: 50px;
+}
+
+#objCreateOrEdit {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    visibility: hidden;
+    background-color: lightcyan;
+    box-shadow: 5px 10px #888888;
+}
+
+
+.button {
+    margin-left: 10%;
+    margin-top: 20px;
+    background-color: rgb(200, 200, 200);
+    border: 2px solid #000000;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #4CAF50;
+    color: blue;
+}
+
+input[type=text] {
+    width: 80px;
+}
