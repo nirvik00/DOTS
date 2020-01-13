@@ -1,0 +1,3 @@
+Name,Key,Base Area,Ratio(L/W),Number,Gross Floor Area,Floor Ht,Region,a,b
+name_A,a,225,0.5,20,3000,3,10,25,50
+name_B,b,225,1,30,3000,3,10,,
