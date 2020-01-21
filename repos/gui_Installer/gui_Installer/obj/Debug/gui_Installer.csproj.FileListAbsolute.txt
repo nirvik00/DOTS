@@ -1,0 +1,10 @@
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\bin\Debug\gui_Installer.exe.config
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\bin\Debug\gui_Installer.exe
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\bin\Debug\gui_Installer.pdb
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\obj\Debug\gui_Installer.Form1.resources
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\obj\Debug\gui_Installer.Properties.Resources.resources
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\obj\Debug\gui_Installer.csproj.GenerateResource.Cache
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\obj\Debug\gui_Installer.csproj.CoreCompileInputs.cache
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\obj\Debug\gui_Installer.exe
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\obj\Debug\gui_Installer.pdb
+c:\users\nirvik saha\source\repos\gui_Installer\gui_Installer\obj\Debug\gui_Installer.csprojResolveAssemblyReference.cache
