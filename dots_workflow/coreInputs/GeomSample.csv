@@ -1,6 +1,6 @@
 Name,Key,Area,Number
-name_A,a,500,2
-name_B,b,500,2
-name_C,c,1500,2
-name_D,d,750,2
-name_E,e,2000,2
+name_A,a,1,2
+name_B,b,0.5,3
+name_C,c,1,2
+name_D,d,1,2
+name_E,e,1,2
