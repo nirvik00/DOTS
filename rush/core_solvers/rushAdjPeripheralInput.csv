@@ -1,0 +1,13 @@
+Names,Id,pA,pB,pC,pD,pE,pF,pG,pH,pI,pJ,pK,pL
+neuro_patient_room,pA,,,,,,,,,,,,
+patient_room,pB,,-400,,,,,,,,,,
+ada_patient_room,pC,,,,,,,,,,,,
+conference_training_room,pD,,,,,,,,,,,,
+neuro_monitor_room,pE,,,,,,,,,,,,
+reading_interview_room,pF,,,,,,,,,,,,
+ptot_therapy,pG,,,,,,,,,,,,
+evs,pH,,,,,,,,,,,,
+consult,pI,,,,,,,,,,,,
+seating_area,pJ,,,,,,,,,,,,
+family_lounge,pK,,,,,,,,,,,,
+staff_lounge,pL,,,,,,,,,,,,

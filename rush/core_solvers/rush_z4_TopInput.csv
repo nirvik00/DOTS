@@ -1,0 +1,7 @@
+Names,Id,Area,Number,z4.a,z4.b,z4.c,z4.d,z4.e,z4.f
+trmt,z4.a,1,1,,100,,,,-300
+respite,z4.b,1,2,100,100,,,,-300
+share office,z4.c,0.75,1,,,200,,,
+food_gallery,z4.d,1,1,,,,,100,100
+ptot_therapy,z4.e,0.5,1,,,,100,,200
+evs,z4.f,0.5,1,,,,100,,200

@@ -1,0 +1,5 @@
+Name,Key,red,green,blue
+Lifts,core-A,50,50,50
+Zone_Left,core-B,50,50,50
+Zone_Right,core-C,50,50,50
+Zone_Right,core,50,50,50
