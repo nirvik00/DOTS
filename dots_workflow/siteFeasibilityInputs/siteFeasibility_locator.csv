@@ -1,0 +1,5 @@
+Name,Key,Number,Footprint Area,Ratio,a,b,c,d
+name_A,a,1,100,0.75,12,12, ,
+name_B,b,1,100,1.25,0,,,
+name_C,c,1,100,0.75,,,12,
+name_D,d,1,100,1.25,,,,
