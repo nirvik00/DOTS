@@ -1,0 +1,9 @@
+Names,Id,Area,Number
+workstation,z3.a,1.5,2
+share office,z3.b,1,1
+cnc_office,z3.c,0.75,1
+soiled_utility,z3.d,1,1
+equip,z3.e,1,1
+staff_lockers,z3.f,1.5,1
+staff_tlt,z3.g,0.5,2
+meds,z3.h,0.5,1

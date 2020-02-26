@@ -1,0 +1,6 @@
+﻿,Key,Area,Number,a,b,c,d,e
+data,a,14,1,,50,,,
+emer_power,b,18,1,,,,,
+elec,c,24,1,,50,,,
+service_vestibule,d,14,1,100,100,100,,
+entrance_corridor,e,13,1,100,,,,

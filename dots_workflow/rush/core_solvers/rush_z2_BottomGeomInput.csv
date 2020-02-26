@@ -1,0 +1,10 @@
+Names,Id,Area,Number
+workstation,z2.a,1.5,1
+share office,z2.b,1,1
+public_tlt,z2.c,1,1
+IS,z2.d,2,1
+dir_office,z2.e,1.5,1
+trash_recycle,z2.f,0.75,1
+linen,z2.g,0.75,1
+pts,z2.h,0.5,1
+Elec,z2.i,2,1

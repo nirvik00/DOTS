@@ -1,0 +1,8 @@
+Names,Id,Area,Number
+workstation,z1.a,1,2
+meds,z1.b,1,1
+clean_supplies,z1.c,1,1
+staircase,z1.d,2,1
+nour,z1.e,0.75,1
+evs,z1.f,0.75,1
+linen,z1.g,0.75,1

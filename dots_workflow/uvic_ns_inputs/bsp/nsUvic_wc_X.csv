@@ -1,0 +1,6 @@
+Name,Key,Area,Number,a,b,c,d,e
+men_wc,a,17,1,,100,,,
+women_wc,b,20,1,,,,,
+univ_wc,c,20,1,-100,-100,-100,-100,
+neutral_wc,d,45,10,,,,,
+circulation,e,70,1,100,100,100,100,100
