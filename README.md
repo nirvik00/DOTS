@@ -12,5 +12,7 @@ https://dots-ai.herokuapp.com/
 
 https://plugs-web.herokuapp.com/
 
+Sample of applications:
+https://docs.google.com/presentation/d/1ao3zoWr4Gmh6q6uZ3-savUO_J7NPYFCaxwiH6rin7Fk/edit?usp=sharing
 
 Thank you
