@@ -1,6 +1,0 @@
-Name,Key,Red (0-255),Green (0-255),Blue (0-255)
-red,a,200,0,0
-green,b,0,200,0
-blue,c,0,0,200
-yellow,d,200,200,0
-cyan,e,0,200,200

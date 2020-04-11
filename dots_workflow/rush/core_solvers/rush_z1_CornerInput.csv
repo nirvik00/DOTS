@@ -1,8 +1,0 @@
-Names,Id,Area,Number,z1.a,z1.b,z1.c,z1.d,z1.e,z1.f,z1.g
-workstation,z1.a,1,2,-200,100,50,,,,
-meds,z1.b,1,1,,,50,,,,
-clean_supplies,z1.c,1,1,,,50,100,50,50,50
-staircase,z1.d,2,1,,,,0,100,100,100
-nour,z1.e,0.75,1,,,,100,,100,
-evs,z1.f,0.75,1,,,,,100,,100
-linen,z1.g,0.75,1,,,,,,100,
