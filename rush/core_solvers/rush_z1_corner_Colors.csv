@@ -1,8 +1,0 @@
-Name,Key,Red (0-255),Green (0-255),Blue (0-255)
-workstation,z1.a,200,0,0
-meds,z1.b,0,200,0
-clean_supplies,z1.c,0,0,200
-staircase,z1.d,255,100,0
-nour,z1.e,100,255,0
-evs,z1.f,0,100,255
-linen,z1.g,255,0,100

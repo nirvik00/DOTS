@@ -1,9 +1,0 @@
-Name,Key,Red (0-255),Green (0-255),Blue (0-255)
-workstation,z3.a,200,0,0
-share office,z3.b,0,200,0
-cnc_office,z3.c,0,0,200
-soiled_utility,z3.d,255,100,0
-equip,z3.e,100,255,0
-staff_lockers,z3.f,0,100,255
-staff_tlt,z3.g,255,0,100
-meds,z3.h,100,0,255
