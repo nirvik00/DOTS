@@ -1,6 +1,6 @@
 # DOTS, interoperable- Rhino-GH web, DynamoBIM
 There are additional parts :  <br/>
-web viewer- https://dots-web.herokuapp.com/ <br/>
+WEB APP- https://dots-web.herokuapp.com/ <br/>
 DYNAMO-BIM: https://github.com/nirvik00/DotsDynamoDll
 
 
