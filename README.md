@@ -1,9 +1,11 @@
+Created to validate my PhD on computation in Design <br/>
+
 # DOTS, interoperable- Rhino-GH web, DynamoBIM
 There are additional parts :  <br/>
 WEB APP- https://dots-web.herokuapp.com/ <br/>
 DYNAMO-BIM: https://github.com/nirvik00/DotsDynamoDll
 
-Created to validate my PhD on computation in Design
+
 <b><i>D</i></b>esign <b><i>O</i></b>ptimization <b><i>T</i></b>ool <b><i>S</i></b>et is a Grasshopper plugin for architecture and urban design
 ---------------------------------<br/>
 Rhino-GH: Download & install: drag-drop <b><i>DotsProj.gha</i></b> into grasshopper<br/>
@@ -22,5 +24,6 @@ https://docs.google.com/presentation/d/1ao3zoWr4Gmh6q6uZ3-savUO_J7NPYFCaxwiH6rin
 
 
 
-
-Thank you
+<br/>
+Thank you<br/>
+Nirvik Saha<br/>
