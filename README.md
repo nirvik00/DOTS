@@ -1,3 +1,5 @@
+(Created to validate my PhD on computation in Design. HIC SVNT DRACONES) <br/>
+
 # DOTS, interoperable- Rhino-GH web, DynamoBIM
 There are additional parts :  <br/>
 WEB APP- https://dots-web.herokuapp.com/ <br/>
@@ -22,5 +24,6 @@ https://docs.google.com/presentation/d/1ao3zoWr4Gmh6q6uZ3-savUO_J7NPYFCaxwiH6rin
 
 
 
-
-Thank you
+<br/>
+Thank you<br/>
+Nirvik Saha<br/>
