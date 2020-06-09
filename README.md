@@ -1,6 +1,6 @@
 <u>Created to validate my PhD on computation in Design at Georgia Tech.</u> <br/>HIC SVNT DRACONES <br/>
 
-# DOTS, interoperable- Rhino-GH web, DynamoBIM
+# DOTS: design optimization tool set
 There are additional parts :  <br/>
 WEB APP- https://dots-web.herokuapp.com/ <br/>
 DYNAMO-BIM: https://github.com/nirvik00/DotsDynamoDll
