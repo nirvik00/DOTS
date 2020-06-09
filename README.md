@@ -1,4 +1,4 @@
-(Created to validate my PhD on computation in Design. HIC SVNT DRACONES) <br/>
+<u>Created to validate my PhD on computation in Design at Georgia Tech.</u> <br/>HIC SVNT DRACONES <br/>
 
 # DOTS, interoperable- Rhino-GH web, DynamoBIM
 There are additional parts :  <br/>
