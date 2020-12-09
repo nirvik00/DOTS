@@ -1,0 +1,6 @@
+Name,Key,Red (0-255),Green (0-255),Blue (0-255)
+name_P,p,175,50,100
+name_Q,q,0,255,150
+name_R,r,0,150,255
+name_S,s,50,255,0
+name_T,t,0,255,250
