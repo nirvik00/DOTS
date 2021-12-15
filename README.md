@@ -1,11 +1,6 @@
 <u>Created to validate my PhD on computation in Design at Georgia Tech.</u> <br/>HIC SVNT DRACONES <br/>
 
-# DOTS: design optimization tool set
-There are additional parts :  <br/>
-WEB APP- https://dots-web.herokuapp.com/ <br/>
-DYNAMO-BIM: https://github.com/nirvik00/DotsDynamoDll
-
-
+# DOTS:
 <b><i>D</i></b>esign <b><i>O</i></b>ptimization <b><i>T</i></b>ool <b><i>S</i></b>et is a Grasshopper plugin for architecture and urban design
 ---------------------------------<br/>
 Rhino-GH: Download & install: drag-drop <b><i>DotsProj.gha</i></b> into grasshopper<br/>
