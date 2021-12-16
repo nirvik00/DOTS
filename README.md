@@ -9,7 +9,7 @@ Directory: <b><i>example_files</i></b> provides <i>sample gh files, rhino3d file
 Publication on Dots:</br>
 http://papers.cumincad.org/cgi-bin/works/paper/acadia20_248
 </br></br>
-Publication using Dots:</br></br>
+Publication using Dots:</br>
 Yang PP-J, Chang S, Saha N, Helen C, Data-driven Planning Support System for a Campus Design, (2020),  Environment and Planning B: Urban Analytics and City Science Manuscript ID EPB-2019-0299 </br>
 
 Chang S, Saha N, Castro-Lacouture D and Yang PP-J (2019a), Multivariate relationships be-tween campus design parameters and energy performance using reinforcement learning and parametric modeling. Applied Energy 249. Elsevier: 253–264. DOI: 10.1016/J.APENERGY.2019.04.109</br>
