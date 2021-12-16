@@ -6,9 +6,9 @@ Rhino-GH: Download & install: drag-drop <b><i>DotsProj.gha</i></b> into grasshop
 
 Directory: <b><i>example_files</i></b> provides <i>sample gh files, rhino3d files</i> and <i>sample*.csv files </i>which can be for reference.<br/>
 
-Publication on Dots:
+Publication on Dots:</br>
 http://papers.cumincad.org/cgi-bin/works/paper/acadia20_248
-</br>
+</br></br>
 Publication using Dots:</br></br>
 Yang PP-J, Chang S, Saha N, Helen C, Data-driven Planning Support System for a Campus Design, (2020),  Environment and Planning B: Urban Analytics and City Science Manuscript ID EPB-2019-0299 </br>
 
