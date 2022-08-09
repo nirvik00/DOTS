@@ -24,6 +24,3 @@ Rezaee, R., Marshall, T., Bernal, M., Saha, N., Haymaker, J. (2019). Constructin
 
 
 
-<br/>
-Thank you<br/>
-Nirvik Saha<br/>
