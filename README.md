@@ -1,6 +1,6 @@
 <u>Created to validate my PhD on computation in Design at Georgia Tech.</u> <br/>HIC SVNT DRACONES <br/>
 
-<b>Thank you Dr. John Haymaker <a href="https://www.linkedin.com/in/john-haymaker-a225b519/">Link</a></b>
+<b>Thank you  <a href="https://www.linkedin.com/in/john-haymaker-a225b519/">Dr. John Haymaker</a></b>
 # DOTS
 <b><i>D</i></b>esign <b><i>O</i></b>ptimization <b><i>T</i></b>ool <b><i>S</i></b>et is a Grasshopper plugin for architecture and urban design<br/>
 Rhino-GH: Download & install: drag-drop <b><i>DotsProj.gha</i></b> into grasshopper<br/>
