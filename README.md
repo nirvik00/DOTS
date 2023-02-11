@@ -11,7 +11,7 @@ Sample of applications: <a href="https://docs.google.com/presentation/d/1Ne_31PJ
 </br></br>
 
 <u>Publication on Dots:</u></br>
-Saha, Nirvik; Haymaker, John 2020, Space Allocation Techniques
+Saha, Nirvik; Haymaker, John, 2020, Space Allocation Techniques
 <a href="http://papers.cumincad.org/cgi-bin/works/paper/acadia20_248"><b> Space Allocation Techniques </b> </a>
 </br></br>
 <u>Publication: research using Dots:</u></br>
