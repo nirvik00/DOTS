@@ -7,8 +7,7 @@ Rhino-GH: Download & install: drag-drop <b><i>DotsProj.gha</i></b> into grasshop
 
 Directory: <b><i>example_files</i></b> provides <i>sample gh files, rhino3d files</i> and <i>sample*.csv files </i>which can be for reference.<br/>
 
-Sample of applications: </br> <a href="https://docs.google.com/presentation/d/1Ne_31PJb3ATaCvFkMDzsDOhXW9aYIZTcQaotayGzmdo/edit?usp=sharing" >See them here</a>
-
+Sample of applications: <a href="https://docs.google.com/presentation/d/1Ne_31PJb3ATaCvFkMDzsDOhXW9aYIZTcQaotayGzmdo/edit?usp=sharing"> <b> Link Here</b></a>
 </br></br>
 
 <u>Publication on Dots:</u></br>
