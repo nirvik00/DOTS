@@ -1,4 +1,4 @@
-<u>Created to validate my PhD on computation in Design at Georgia Tech.</u> <br/>HIC SVNT DRACONES <br/>
+<u><b>Created to validate my PhD on computation in Design at Georgia Tech.</b></u> <br/>HIC SVNT DRACONES <br/>
 
 <a href="https://www.linkedin.com/in/john-haymaker-a225b519/"><b>*Dr. John Haymaker</b></a>
 # DOTS
