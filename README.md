@@ -12,8 +12,8 @@ Sample of applications: <a href="https://docs.google.com/presentation/d/1Ne_31PJ
 </br></br>
 
 <u>Publication on Dots:</u></br>
-Saha, Nirvik; Haymaker, John, 2020, Space Allocation Techniques
-<a href="http://papers.cumincad.org/cgi-bin/works/paper/acadia20_248"><b> Space Allocation Techniques </b> </a>
+Saha, Nirvik; Haymaker, John, 2020,
+<a href="http://papers.cumincad.org/cgi-bin/works/paper/acadia20_248"><b> Space Allocation Techniques </b> </a> Proceedings Acadia...(refer link)
 </br></br>
 <u>Publication: research using Dots:</u></br>
 Yang PP-J, Chang S, Saha N, Helen C, Data-driven Planning Support System for a Campus Design, (2020),  Environment and Planning B: Urban Analytics and City Science Manuscript ID EPB-2019-0299 </br>
