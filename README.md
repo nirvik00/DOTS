@@ -11,6 +11,9 @@ Directory: <b><i>example_files</i></b> provides <i>sample gh files, rhino3d file
 Sample of applications: <a href="https://docs.google.com/presentation/d/1Ne_31PJb3ATaCvFkMDzsDOhXW9aYIZTcQaotayGzmdo/edit?usp=sharing"> <b> Link Here</b></a>
 </br></br>
 
+Explanatory videos on youtube: <a href="https://www.youtube.com/playlist?list=PLHJ2svvXKPxqQKZYNDyBgG52NE-5kYlVY"> <b> Link Here</b></a>
+</br></br>
+
 <u>Publication on Dots:</u></br>
 Saha, Nirvik; Haymaker, John, 2020,
 <a href="http://papers.cumincad.org/cgi-bin/works/paper/acadia20_248"><b> Space Allocation Techniques </b> </a> Proceedings Acadia...
