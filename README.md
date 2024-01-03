@@ -1,6 +1,5 @@
 <u><b>Created to validate my PhD in design & computation at Georgia Institute of Technology, Atlanta</b></u> <br/>HIC SVNT DRACONES <br/>
 
-
 </br>
 # DOTS
 <b><i>D</i></b>esign <b><i>O</i></b>ptimization <b><i>T</i></b>ool <b><i>S</i></b>et is a Grasshopper plugin for architecture and urban design<br/>
@@ -9,10 +8,10 @@ Rhino-GH: Download & install: drag-drop <b><i>DotsProj.gha</i></b> into grasshop
 Directory: <b><i>example_files</i></b> provides <i>sample gh files, rhino3d files</i> and <i>sample*.csv files </i>which can be for reference.<br/>
 
 Sample of applications: <a href="https://docs.google.com/presentation/d/1Ne_31PJb3ATaCvFkMDzsDOhXW9aYIZTcQaotayGzmdo/edit?usp=sharing"> <b> Link Here</b></a>
-</br></br>
+</br>
 
 Explanatory videos on youtube: <a href="https://www.youtube.com/playlist?list=PLHJ2svvXKPxqQKZYNDyBgG52NE-5kYlVY"> <b> Link Here</b></a>
-</br></br>
+</br>
 
 <u>Publication on Dots:</u></br>
 Saha, Nirvik; Haymaker, John, 2020,
