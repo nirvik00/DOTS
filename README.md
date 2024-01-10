@@ -14,7 +14,7 @@ Explanatory videos on youtube: <a href="https://www.youtube.com/playlist?list=PL
 </br>
 
 <u>Publication on Dots:</u></br>
-Saha, Nirvik; Haymaker, John, 2020,
+Saha, Nirvik, Haymaker, John, Shelden Dennis, 2020,
 <a href="http://papers.cumincad.org/cgi-bin/works/paper/acadia20_248"><b> Space Allocation Techniques </b> </a> Proceedings Acadia...
 </br></br>
 <u>Publication: research using Dots:</u></br>
